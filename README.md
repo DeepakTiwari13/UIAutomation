@@ -6,6 +6,7 @@ or mvn test .Surefire report will be generated at the end of test execution.Usin
 Package :- UIAutomation/src/test/resources/
 File :- or.properties [ Object repository ]
 project.properties [ read configuration data ]
+
 /UIAutomation/tree/master/src/test/java/drivers "Contains the driver executables for different browsers"
 
 Class :- UIAutomation/src/test/java/com/assignment/ui/base/baseTest.java
