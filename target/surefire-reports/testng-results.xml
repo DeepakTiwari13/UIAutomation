@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="UI-Automation-Assignment" duration-ms="28977" started-at="2018-12-07T15:42:45Z" finished-at="2018-12-07T15:43:14Z">
+    <groups>
+    </groups>
+    <test name="New User Screen" duration-ms="28977" started-at="2018-12-07T15:42:45Z" finished-at="2018-12-07T15:43:14Z">
+      <class name="com.assignment.ui.testcase.newuserScreen">
+        <test-method status="PASS" signature="initializeConfigData()[pri:0, instance:com.assignment.ui.testcase.newuserScreen@3d8c7aca]" name="initializeConfigData" is-config="true" duration-ms="13" started-at="2018-12-07T21:12:45Z" finished-at="2018-12-07T21:12:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeConfigData -->
+        <test-method status="PASS" signature="verifyNewUserScreen()[pri:1, instance:com.assignment.ui.testcase.newuserScreen@3d8c7aca]" name="verifyNewUserScreen" duration-ms="24302" started-at="2018-12-07T21:12:45Z" finished-at="2018-12-07T21:13:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNewUserScreen -->
+        <test-method status="PASS" signature="verifyUsersFilters()[pri:2, instance:com.assignment.ui.testcase.newuserScreen@3d8c7aca]" name="verifyUsersFilters" duration-ms="4560" started-at="2018-12-07T21:13:10Z" finished-at="2018-12-07T21:13:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUsersFilters -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.assignment.ui.testcase.newuserScreen@3d8c7aca]" name="closeBrowser" is-config="true" duration-ms="90" started-at="2018-12-07T21:13:14Z" finished-at="2018-12-07T21:13:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.assignment.ui.testcase.newuserScreen -->
+    </test> <!-- New User Screen -->
+  </suite> <!-- UI-Automation-Assignment -->
+</testng-results>
